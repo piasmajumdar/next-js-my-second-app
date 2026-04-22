@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Data API
+Food api: [https://phi-lab-server.vercel.app/api/v1/lab/foods](https://phi-lab-server.vercel.app/api/v1/lab/foods)
+
 ## Getting Started
 
 First, run the development server:
