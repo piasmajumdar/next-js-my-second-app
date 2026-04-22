@@ -2,7 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 ## Data API
-Food api: [https://phi-lab-server.vercel.app/api/v1/lab/foods](https://phi-lab-server.vercel.app/api/v1/lab/foods)
+Foods api: [https://phi-lab-server.vercel.app/api/v1/lab/foods](https://phi-lab-server.vercel.app/api/v1/lab/foods)
+
+Get a food by id:
+```
+https://phi-lab-server.vercel.app/api/v1/lab/foods/${id}
+```
 
 ## Getting Started
 
