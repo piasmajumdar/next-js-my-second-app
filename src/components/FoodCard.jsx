@@ -19,7 +19,7 @@ const FoodCard = ({ food }) => {
                         <div className="badge badge-secondary">NEW</div>
                     </h2>
                     <p><small>Category: {category}</small></p>
-                    <p>Price: ${price}</p>
+                    <p>Price: BDT {price}</p>
                     <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
                     <div className="card-actions justify-end">
                         <button className="btn btn-primary">Add to Cart</button>
